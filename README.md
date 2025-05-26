@@ -1,12 +1,12 @@
 
 <h1 align="center">I am Zulaikha Azman</h1>
-<h3 align="center">A future programmer that will slay the world of coding</h3>
+<h3 align="center">Third year student of Bioinformatics in Universiti Teknologi Malaysia</h3>
 
 - 💬 Ask me about **cats**
 
 - 📫 How to reach me **zulaikhaazman352@gmail.com**
 
-- ⚡ Fun fact **I love my cats :)**
+- ⚡ Fun fact **I am eager to learn something new and I love to read most of the time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
